@@ -27,6 +27,6 @@ public class DesktopStarter {
         //
         // Application entry point
         //
-        new LwjglApplication( new TheGame(), conf);
+        new LwjglApplication( new TheGame(), conf );
     }
 }
