@@ -1,0 +1,5 @@
+Main/out/*
+Main/.idea/workspace.xml
+Main/.idea/tasks.xml
+Main/.idea/*.iws
+Main/.idea/codeStyleSettings.xml
